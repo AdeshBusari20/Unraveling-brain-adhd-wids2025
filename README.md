@@ -26,7 +26,7 @@ I worked with a rich dataset containing demographic, behavioral, and MRI-based a
 ---
 ## 📄 Project Notebook
 View the notebook here: [WIDS Final Project (nbviewer)](https://nbviewer.org/github/AdeshBusari20/Unraveling-brain-adhd-wids2025/blob/main/WIDS_final_project.ipynb)
-
+you can download the notebook and work on it file is been uploaded.
 ---
 ## 📊 Dataset
 
