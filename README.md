@@ -25,7 +25,6 @@ I worked with a rich dataset containing demographic, behavioral, and MRI-based a
 - Demonstrated strong feature engineering and statistical analysis skills
 ---
 ## 📄 Project Notebook
-View the notebook here: [WIDS Final Project (nbviewer)](https://nbviewer.org/github/AdeshBusari20/Unraveling-brain-adhd-wids2025/blob/main/WIDS_final_project.ipynb)
 - If you’d like to explore or modify the code yourself, you can [**download the notebook**](WIDS_final_project1.ipynb) directly from this repository and open it in Jupyter Notebook or JupyterLab.
 ---
 ## 📊 Dataset
