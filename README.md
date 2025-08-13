@@ -24,6 +24,10 @@ I worked with a rich dataset containing demographic, behavioral, and MRI-based a
 - Successfully applied EDA and ML to identify gender-specific ADHD patterns
 - Demonstrated strong feature engineering and statistical analysis skills
 ---
+## 📄 Project Notebook
+View the notebook here: [WIDS Final Project (nbviewer)](https://nbviewer.org/github/AdeshBusari20/Unraveling-brain-adhd-wids2025/blob/main/WIDS_final_project.ipynb)
+
+---
 ## 📊 Dataset
 
 The dataset includes participant demographics, parenting assessments, behavioral scores, MRI scan information, and ADHD outcome labels.
